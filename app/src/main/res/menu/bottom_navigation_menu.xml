@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/bottom_nav_about"
+        android:title="@string/about"
+        android:icon="@drawable/about"
+        app:cnb_backgroundColor="@color/stroke_color"/>
+    <item
+        android:id="@+id/bottom_nav_skills"
+        android:title="@string/skill"
+        android:icon="@drawable/skills"
+        app:cnb_backgroundColor="@color/stroke_color"/>
+    <item
+        android:id="@+id/bottom_nav_exp"
+        android:title="@string/work_experience"
+        android:icon="@drawable/exp"
+        app:cnb_backgroundColor="@color/stroke_color"/>
+    <item
+        android:id="@+id/bottom_nav_project"
+        android:title="@string/projects"
+        android:icon="@drawable/projects"
+        app:cnb_backgroundColor="@color/stroke_color"/>
+</menu>

@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+
+    <string name="my_online_resume">My Online Resume</string>
+    <string name="profile_name">Golap Gunjan Barman</string>
+    <string name="job_des">Experimental Android App Developer with some experience in the field of Machine Learning and Graphics Design.</string>
+    <string name="developer">Android Developer</string>
+    <string name="about">About</string>
+    <string name="android">Android</string>
+    <string name="ml">Machine Learning</string>
+    <string name="Graphics">Graphics Design</string>
+    <string name="contact">Contact</string>
+    <string name="phone">Phone Number</string>
+    <string name="phoneNumber">8473855948/8638853591</string>
+    <string name="email">Email</string>
+    <string name="emailId">barmangolap15@gmail.com</string>
+    <string name="address">Address</string>
+    <string name="addressMe">Guwahati, Assam, India</string>
+    <string name="skill">Skills</string>
+    <string name="tech_skill">Hard Skills</string>
+    <string name="_skill">Soft Skills</string>
+    <string name="teamwork">Teamwork</string>
+    <string name="Adaptability">Adaptability</string>
+    <string name="creativity">Creativity</string>
+    <string name="active">Active Listening</string>
+    <string name="work_experience">Experience</string>
+    <string name="work_experience1">Project Assistant (Android App Developer / Machine Learning)</string>
+    <string name="work_experience2">Horticulture Research Station, Assam Agriculture University, Guwahati, Assam</string>
+    <string name="work_experience3">Tasks</string>
+    <string name="work_experience4">Android Application Developer. Design the front-end and back-end of the app using Firebase. Manage app accuracy, speed, and performance. Collect the relevant data for the app.</string>
+    <string name="work_experience5">Data Science and Machine Learning. Create a model that can detect plant diseases. July 2019 - Present Use different supervised and unsupervised machine learning methods to improve the accuracy of the model. Collect the sample images for the database at ground level.</string>
+    <string name="education">Education</string>
+    <string name="projects">Projects</string>
+    <string name="project1_title">Maize Leaf Disease Detection</string>
+    <string name="project2_title">Coconut Disease Detection</string>
+    <string name="project3_title">Potato and Tomato Leaf Disease Detection</string>
+    <string name="project4_title">Quiz App</string>
+    <string name="project5_title">COVID-19 tracker App</string>
+    <string name="project1">A Deep Learning-Based Android Application to Detect the Leaf Diseases of Maize</string>
+    <string name="project2">Design and Development of Digital Image Database with an Android App and Web system for the Detection of Major Pests and Diseases of Coconut of Assam</string>
+    <string name="project3">A Deep Learning-Based Android Application to Detect the Leaf Diseases of Potato and Tomato</string>
+    <string name="project4">Quiz App using Android and Firebase</string>
+    <string name="project5">COVID-19 Tracker App using REST API</string>
+    <string name="select_language">Select Your Language</string>
+
+</resources>

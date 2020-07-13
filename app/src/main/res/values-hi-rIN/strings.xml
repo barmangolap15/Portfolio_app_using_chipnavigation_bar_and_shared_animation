@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">पोर्टफोलियो</string>
+
+    <string name="my_online_resume">मेरा ऑनलाइन रिज्यूमे</string>
+    <string name="profile_name">गोलप गुंजन बर्मन</string>
+    <string name="job_des">प्रायोगिक एंड्रॉयड ऐप डेवलपर मशीन लर्निंग और ग्राफिक्स डिजाइन के क्षेत्र में कुछ अनुभव के साथ।</string>
+    <string name="developer">एंड्रॉयड डेवलपर</string>
+    <string name="about">बारे में</string>
+    <string name="android">एंड्रॉयड</string>
+    <string name="ml">मशीन लर्निंग</string>
+    <string name="Graphics">ग्राफिक्स डिजाइन</string>
+    <string name="contact">संपर्क करें</string>
+    <string name="phone">फ़ोन नंबर</string>
+    <string name="phoneNumber">८४७३८५५९४८/८६३८८५३५९१</string>
+    <string name="email">ईमेल</string>
+    <string name="emailId">barmangolap15@gmail.com</string>
+    <string name="address">पता</string>
+    <string name="addressMe">गुवाहाटी, असम, भारत</string>
+    <string name="skill">कौशल</string>
+    <string name="tech_skill">तकनीकी कौशल</string>
+    <string name="_skill">अग्रणी कौशल</string>
+    <string name="teamwork">टीम वर्क</string>
+    <string name="Adaptability">अनुकूलन क्षमता</string>
+    <string name="creativity">रचनात्मकता</string>
+    <string name="active">सक्रिय होकर सुनना</string>
+    <string name="work_experience">काम का अनुभव</string>
+    <string name="work_experience1">परियोजना सहायक (एंड्रॉइड ऐप डेवलपर / मशीन लर्निंग)</string>
+    <string name="work_experience2">बागवानी अनुसंधान स्टेशन, असम कृषि विश्वविद्यालय, गुवाहाटी, असम</string>
+    <string name="work_experience3">कार्य</string>
+    <string name="work_experience4">एंड्रॉयड एप्लिकेशन डेवलपर। फायरबेस का उपयोग करके ऐप के फ्रंट-एंड और बैक-एंड डिज़ाइन करें। एप्लिकेशन सटीकता, गति और प्रदर्शन प्रबंधित करें। एप्लिकेशन के लिए प्रासंगिक डेटा एकत्र करें।</string>
+    <string name="work_experience5">डाटा साइंस और मशीन लर्निंग। एक मॉडल बनाएं जो पौधों की बीमारियों का पता लगा सके। जुलाई 2019 - मॉडल की सटीकता में सुधार करने के लिए अलग-अलग पर्यवेक्षित और अनुपयोगी मशीन सीखने के तरीकों का उपयोग करें। जमीनी स्तर पर डेटाबेस के लिए नमूना छवियों को ले लीजिए।</string>
+
+    <string name="education">शिक्षा</string>
+    <string name="projects">परियोजना</string>
+    <string name="project1_title">मक्का का पत्ता रोग का पता लगाने</string>
+    <string name="project2_title">नारियल रोग का पता लगाना</string>
+    <string name="project3_title">आलू और टमाटर का पत्ता रोग का पता लगाने</string>
+    <string name="project4_title">विज़ ऐप</string>
+    <string name="project5_title">COVID-19 ट्रैकर ऐप</string>
+    <string name="project1">मक्का के पत्तों के रोगों का पता लगाने के लिए एक डीप लर्निंग-आधारित एंड्रॉइड एप्लीकेशन</string>
+    <string name="project2">असम के नारियल के प्रमुख कीटों और रोगों की पहचान के लिए एक एंड्रॉइड ऐप और वेब प्रणाली के साथ डिजिटल इमेज डेटाबेस का डिजाइन और विकास</string>
+    <string name="project3">आलू और टमाटर के पत्तों के रोगों का पता लगाने के लिए एक डीप लर्निंग-आधारित एंड्रॉइड एप्लीकेशन</string>
+    <string name="project4">Android और Firebase का उपयोग कर क्विज़ ऐप</string>
+    <string name="project5">बाकी एपीआई का उपयोग कर COVID-19 ट्रैकर ऐप</string>
+    <string name="select_language">अपनी भाषा का चयन करें</string>
+</resources>

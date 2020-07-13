@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="#4688f1">
+
+
+    <LinearLayout
+        android:layout_width="350dp"
+        android:layout_height="350dp"
+        android:background="@drawable/background"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+
+        <ImageView
+            android:id="@+id/close_from_dialog"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:padding="2dp"
+            android:background="@drawable/ripple_close_btn"
+            android:src="@drawable/close" />
+
+        <TextView
+            android:id="@+id/select_language"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:fontFamily="@font/asap_bold"
+            android:gravity="center"
+            android:text="Please Select Your Language"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textColor="@android:color/white"
+            android:textSize="20sp" />
+
+        <View
+            android:layout_width="250dp"
+            android:layout_height="2dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="@android:color/white" />
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/down_point"
+            android:layout_gravity="center"
+            android:layout_marginTop="-22dp"/>
+
+        <Button
+            android:id="@+id/hindi_btn"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/asap_bold"
+            android:gravity="center"
+            android:text="हिन्दी"
+            android:textColor="@android:color/white"
+            android:background="@drawable/ripple_button"
+            android:textSize="17sp" />
+
+        <Button
+            android:id="@+id/eng_btn"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/asap_bold"
+            android:gravity="center"
+            android:text="English"
+            android:textColor="@android:color/white"
+            android:background="@drawable/ripple_button"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/ban_btn"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/asap_bold"
+            android:gravity="center"
+            android:text="বাংলা"
+            android:textColor="@android:color/white"
+            android:background="@drawable/ripple_button"
+            android:textSize="17sp" />
+    </LinearLayout>
+
+
+</RelativeLayout>

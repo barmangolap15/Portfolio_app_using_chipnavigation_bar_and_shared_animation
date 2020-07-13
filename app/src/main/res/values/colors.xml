@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DEF8FB</color>
+    <color name="colorPrimaryDark">#DEF8FB</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="mainscreen_colo">#DEF8FB</color>
+    <color name="stroke_color">#4688f1</color>
+</resources>

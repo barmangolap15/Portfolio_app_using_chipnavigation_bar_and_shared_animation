@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorAccent"
+    tools:context=".fragments.ProjectsFragment">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?android:attr/actionBarSize"
+                android:background="@color/colorPrimaryDark"
+                android:theme="@style/ThemeOverlay.AppCompat.DayNight.ActionBar">
+
+<!--                <ImageView-->
+<!--                    android:id="@+id/back_icon"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_marginRight="10dp"-->
+<!--                    android:background="@drawable/ripple"-->
+<!--                    android:padding="5dp"-->
+<!--                    android:src="@drawable/back" />-->
+
+                <TextView
+                    android:id="@+id/about_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:fontFamily="@font/asap_bold"
+                    android:padding="8dp"
+                    android:text="@string/projects"
+                    android:textColor="@android:color/black"
+                    android:textSize="18sp" />
+
+                <ImageView
+                    android:id="@+id/language_icon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/ripple"
+                    android:padding="5dp"
+                    android:src="@drawable/language_black"
+                    android:layout_gravity="end"/>
+
+            </androidx.appcompat.widget.Toolbar>
+
+            <ImageView
+                android:id="@+id/coverIv"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_below="@+id/toolbar"
+                android:background="@color/colorPrimaryDark"
+                android:scaleType="fitXY" />
+
+            <LinearLayout
+                android:id="@+id/lione"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_marginTop="80dp"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal">
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:id="@+id/profile_image"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:padding="5dp"
+                    android:src="@drawable/my_profile"
+                    android:elevation="10dp"
+                    app:civ_border_color="@android:color/black"
+                    app:civ_border_width="3dp" />
+
+
+            </LinearLayout>
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/recyclerView"
+                android:layout_below="@+id/lione"
+                android:layout_marginTop="20dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                android:layout_marginBottom="30dp"
+                android:overScrollMode="never"/>
+
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+</ScrollView>

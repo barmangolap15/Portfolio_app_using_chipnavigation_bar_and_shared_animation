@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">দফতর</string>
+
+    <string name="my_online_resume">আমার অনলাইন জীবনবৃত্তান্ত</string>
+    <string name="profile_name">গোলাপ গুঞ্জন বর্মন</string>
+    <string name="job_des">মেশিন লার্নিং এবং গ্রাফিক্স ডিজাইনের ক্ষেত্রে কিছু অভিজ্ঞতার সাথে পরীক্ষামূলক অ্যান্ড্রয়েড অ্যাপ বিকাশকারী।</string>
+    <string name="developer">অ্যান্ড্রয়েড বিকাশকারী</string>
+    <string name="about">সম্পর্কিত</string>
+    <string name="android">অ্যান্ড্রয়েড</string>
+    <string name="ml">মেশিন লার্নিং</string>
+    <string name="Graphics">গ্রাফিক্স ডিজাইন</string>
+    <string name="contact">যোগাযোগ</string>
+    <string name="phone">ফোন নম্বর</string>
+    <string name="phoneNumber">৮৪৭৩৮৫৫৯৪৮/৮৬৩৮৮৫৩৫৯১</string>
+    <string name="email">ই-মেইল</string>
+    <string name="emailId">barmangolap15@gmail.com</string>
+    <string name="address">ঠিকানা</string>
+    <string name="addressMe">গুয়াহাটি, আসাম, ভারত</string>
+    <string name="skill">দক্ষতা</string>
+    <string name="tech_skill">প্রযুক্তিগত দক্ষতা</string>
+    <string name="_skill">নেতৃস্থানীয় দক্ষতা</string>
+    <string name="teamwork">দলবদ্ধভাবে কর্ম</string>
+    <string name="Adaptability">উপযোগীকরণ</string>
+    <string name="creativity">সৃজনশীলতা</string>
+    <string name="active">সক্রিয় শ্রবণ</string>
+    <string name="work_experience">কর্মদক্ষতা</string>
+    <string name="work_experience1">প্রকল্প সহকারী (অ্যান্ড্রয়েড অ্যাপ বিকাশকারী / মেশিন লার্নিং)</string>
+    <string name="work_experience2">উদ্যানতত্ত্ব গবেষণা কেন্দ্র, আসাম কৃষি বিশ্ববিদ্যালয়, গুয়াহাটি, আসাম</string>
+    <string name="work_experience3">কাজ</string>
+    <string name="work_experience4">অ্যান্ড্রয়েড অ্যাপ্লিকেশন বিকাশকারী। ফায়ারবেস ব্যবহার করে অ্যাপের সম্মুখ-প্রান্ত এবং পিছনের দিকের নকশা করুন। অ্যাপের যথার্থতা, গতি এবং কার্য সম্পাদন পরিচালনা করুন। অ্যাপ্লিকেশনটির জন্য সম্পর্কিত ডেটা সংগ্রহ করুন।</string>
+    <string name="work_experience5">ডেটা সায়েন্স এবং মেশিন লার্নিং। এমন একটি মডেল তৈরি করুন যা গাছের রোগগুলি সনাক্ত করতে পারে। জুলাই 2019 - বর্তমান মডেলের যথার্থতা উন্নত করতে বিভিন্ন তদারকি করা এবং নিরীক্ষণযোগ্য মেশিন লার্নিং পদ্ধতিগুলি ব্যবহার করুন। গ্রাউন্ড স্তরে ডাটাবেসের জন্য নমুনা চিত্র সংগ্রহ করুন।</string>
+
+    <string name="education">শিক্ষা</string>
+    <string name="projects">প্রকল্প</string>
+    <string name="project1_title">ভুট্টার পাতার রোগ নির্ণয়</string>
+    <string name="project2_title">নারকেল রোগ সনাক্তকরণ</string>
+    <string name="project3_title">আলু এবং টমেটো পাতা রোগের সনাক্তকরণ</string>
+    <string name="project4_title">কুইজ অ্যাপ</string>
+    <string name="project5_title">COVID-19 ট্র্যাকার অ্যাপ</string>
+    <string name="project1">ভুট্টার পাতার রোগগুলি সনাক্ত করার জন্য একটি গভীর শিক্ষণ-ভিত্তিক অ্যান্ড্রয়েড অ্যাপ্লিকেশন</string>
+    <string name="project2">আসামের নারকেলের প্রধান কীটপতঙ্গ ও রোগ নির্ণয়ের জন্য অ্যান্ড্রয়েড অ্যাপ এবং ওয়েব সিস্টেমের সাথে ডিজিটাল ইমেজ ডেটাবেস ডিজাইন এবং বিকাশ</string>
+    <string name="project3">আলু এবং টমেটো এর পাতাগুলি রোগগুলি সনাক্ত করার জন্য একটি গভীর শিক্ষা-ভিত্তিক অ্যান্ড্রয়েড অ্যাপ্লিকেশন</string>
+    <string name="project4">অ্যান্ড্রয়েড এবং ফায়ারবেস ব্যবহার করে কুইজ অ্যাপ</string>
+    <string name="project5">COVID-19 ট্র্যাকার অ্যাপ্লিকেশনটি REST এপিআই ব্যবহার করে</string>
+    <string name="select_language">আপনার ভাষা নির্বাচন করুন</string>
+</resources>
